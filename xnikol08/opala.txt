@@ -1,0 +1,3 @@
+Pocet 110
+1 TECHNIC STUDENT Preza Nikolic 1 1 1111 NaN
+2 HUMANIT STUDENT Velja Lazarevic 2 2 111 NaN
